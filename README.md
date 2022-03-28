@@ -11,4 +11,13 @@ O diagrama de blocos do sistema de monitoramento utilizado nos experimentos est�
 
 A Regressão Logística Multinomial é utilizada para obter probabilidade de eventos, conforme a equação descrita a seguir:
 
-![equation](https://user-images.githubusercontent.com/70539330/160395369-b5b8dbc8-26b2-41d2-be0b-6e3f007bd40c.gif)
+![equation](https://user-images.githubusercontent.com/70539330/160398731-69d7e719-b640-441a-82c5-882ff6f9e697.gif)
+
+Ao dividir o numerador e o denominador pela primeira classe, tem-se:
+
+![equation](https://user-images.githubusercontent.com/70539330/160397911-bff150bc-dd25-4e8e-89b7-a1e9da13778b.gif)
+
+Por fim, as probabilidades podem ser obtidas por:
+
+![equation](https://user-images.githubusercontent.com/70539330/160398335-7c332445-c337-4214-96f7-f002566d9c4e.gif)
+
