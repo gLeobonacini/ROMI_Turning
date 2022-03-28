@@ -1,4 +1,4 @@
-# Regreessão Logística Multinomial Utilizada para Identificação de Condição de Usinagem
+# Regressão Logística Multinomial Utilizada para Identificação de Condição de Usinagem
 
 Este repositório contém os arquivos utilizados para o artigo intitulado "Cutting Parameters and Material Classification Using Multinomial Logistic Regression".
 
