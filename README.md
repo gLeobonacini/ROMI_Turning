@@ -1,6 +1,6 @@
 # Regressão Logística Multinomial Utilizada para Identificação de Condição de Usinagem
 
-Este repositório contém os arquivos utilizados para o artigo intitulado "Cutting Parameters and Material Classification Using Multinomial Logistic Regression".
+Este repositório contém os arquivos utilizados para o artigo intitulado "Cutting Parameters and Material Classification Using Multinomial Logistic Regression". Link: https://latamt.ieeer9.org/index.php/transactions/article/view/6952
 
 Para coleta dos dados, realizou-se experimentos na máquina CNC ROMI Centur 30D e com a ferramenta de corte da empresa Tungaloy cujo código é TNMG160408R-C
 NS530.
